@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: empty-repo
+  description: An empty repository for Backstage demonstration purposes.
+  owner: gdsmith1
+  tags: [demo, backstage]
+spec:
+  type: service
+  lifecycle: experimental
+  owner: gdsmith1
+  system: backstage-demo
+  repo: https://github.com/backstage-gibson/empty-repo
