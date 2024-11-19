@@ -8,6 +8,6 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: gdsmith1
+  owner: backstage-dev-team
   system: backstage-demo
   repo: https://github.com/backstage-gibson/empty-repo
